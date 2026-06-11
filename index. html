@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Green Farm</title>
+</head>
+<body>
+
+<h1>Welcome to Green Farm </h1>
+
+<p>
+Green Farm provides modern farming solutions
+and quality agricultural product
+</p>
+
+<a href= "crops.html">Crops</a>
+<a href="about.html">About Us</a>
+
+</body>
+</html>
